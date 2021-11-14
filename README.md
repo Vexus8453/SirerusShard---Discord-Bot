@@ -24,4 +24,6 @@ discord.py rewrite
 	
 ## NOTICE:
 
+SirerusShard is currently in heavy development, The bot is not being hosted due to this - Once development is finished this will change
+
 
