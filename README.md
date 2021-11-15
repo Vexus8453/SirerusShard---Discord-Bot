@@ -13,10 +13,10 @@
 
 discord.py rewrite
 	
-## Update Log V0.08:
+## Update Log V0.09:
 
-* Anti-Advertise (Currently Not Toggable, will be added later)
-* Logs - Message Delete/Join Logs
+* Edited Message Logs
+* 
 
 
 
