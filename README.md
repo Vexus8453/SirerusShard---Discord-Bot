@@ -13,12 +13,11 @@
 
 discord.py rewrite
 	
-## Update Log V0.07:
+## Update Log V0.08:
 
-* Github!
-* SQL Support
-* Reworked Help Command
-* New User Welcome Messages
+* Anti-Advertise (Currently Not Toggable, will be added later)
+* Logs - Message Delete/Join Logs
+
 
 
 	
