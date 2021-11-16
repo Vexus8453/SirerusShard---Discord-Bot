@@ -15,8 +15,9 @@ discord.py rewrite
 	
 ## Update Log V0.09:
 
-* Edited Message Logs
-* 
+* Edited/Member Leave/Member Join Logs
+* Databases
+* Set logging & welcome channels command
 
 
 
