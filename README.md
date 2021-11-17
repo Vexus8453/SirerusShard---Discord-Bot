@@ -13,11 +13,11 @@
 
 discord.py rewrite
 	
-## Update Log V0.09:
+## Update Log V0.10:
 
-* Edited/Member Leave/Member Join Logs
-* Databases
-* Set logging & welcome channels command
+* 17+ Blacklisted Scam links
+* Reworked Help Command
+* Better AutoModeration
 
 
 
