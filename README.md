@@ -13,11 +13,11 @@
 
 discord.py rewrite
 	
-## Update Log V0.10:
+## Update Log V0.11:
 
-* 17+ Blacklisted Scam links
-* Reworked Help Command
-* Better AutoModeration
+* Slowmode Command
+* Optimization
+
 
 
 
