@@ -16,6 +16,7 @@
 * Advanced Moderation
 * Welcoming System
 * Anti-Advertisement
+* Anti-Scam Links
 
 
 	
