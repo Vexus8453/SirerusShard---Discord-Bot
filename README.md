@@ -1,5 +1,5 @@
 # SirerusShard - Discord-Bot
-
+```discord.py rewrite```
 
 ## Table of contents
 * [Invite](https://discord.com/oauth2/authorize?client_id=900083965732483134&permissions=8&scope=bot)
@@ -9,9 +9,15 @@
 ## General info
 ***SirerusShard*** - Advanced Management & Moderation discord bot, Made by Vexus#8453
 
-***Written In:***
+## Features:
+* Auto-Moderation
+* Report System
+* Logging
+* Advanced Moderation
+* Welcoming System
+* Anti-Advertisement
 
-discord.py rewrite
+
 	
 ## Update Log V0.11:
 
