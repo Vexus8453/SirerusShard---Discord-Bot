@@ -1,4 +1,4 @@
-# SirerusShard - Discord-Bot
+# SirerusShard
 ```discord.py rewrite```
 
 ## Table of contents
