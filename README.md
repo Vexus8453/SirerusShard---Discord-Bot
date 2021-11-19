@@ -7,7 +7,7 @@
 
 
 ## General info
-***SirerusShard*** - Advanced Management & Moderation discord bot, Made by Vexus#8453
+***SirerusShard*** - Advanced Management & Moderation discord bot, Made by Vexus#8453 to protect discord servers. 🔨
 
 ## Features:
 * Auto-Moderation
