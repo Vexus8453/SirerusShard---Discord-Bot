@@ -24,6 +24,7 @@
 
 * Optimization
 * Bug Fixes
+* Auto Moderation Updated
 
 
 
