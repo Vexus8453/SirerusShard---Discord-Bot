@@ -20,10 +20,11 @@
 
 
 	
-## Update Log V0.11:
+## Update Log V0.12:
 
-* Slowmode Command
 * Optimization
+* Bug Fixes
+* 
 
 
 
