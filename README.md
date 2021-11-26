@@ -23,8 +23,9 @@
 ## Update Log V0.12:
 
 * Optimization
-* Bug Fixes
-* Auto Moderation Updated
+* Softban Command
+
+
 
 
 
