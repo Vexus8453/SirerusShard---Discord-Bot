@@ -20,7 +20,7 @@
 
 
 	
-## Update Log V0.12:
+## Update Log V0.13:
 
 * Optimization
 * Softban Command
