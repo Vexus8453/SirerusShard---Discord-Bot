@@ -17,13 +17,14 @@
 * Welcoming System
 * Anti-Advertisement
 * Anti-Scam Links
+* Verification System
 
 
 	
-## Update Log V0.13:
+## Update Log V0.14:
 
 * Optimization
-* Softban Command
+
 
 
 
