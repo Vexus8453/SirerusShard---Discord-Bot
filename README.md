@@ -26,7 +26,8 @@
 * Optimization
 * Anti-Spam
 * Improved Auto Moderation
-* Channel Creation Logs
+* Channel Creation/Deletion Logs
+
 
 
 
