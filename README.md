@@ -21,10 +21,14 @@
 
 
 	
-## Update Log V0.15:
+## Changelog
 
 * Optimization
-* Being hosted / For a while.
+* Anti-Spam
+* Improved Auto Moderation
+* Channel Creation Logs
+
+
 
 
 
