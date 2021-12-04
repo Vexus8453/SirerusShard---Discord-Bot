@@ -2,7 +2,7 @@
 ```discord.py rewrite```
 
 ## Table of contents
-* [Invite](https://discord.com/oauth2/authorize?client_id=900083965732483134&permissions=8&scope=bot)
+* [Invite](https://discord.com/api/oauth2/authorize?client_id=900083965732483134&permissions=469888246&scope=bot)
 * [Wiki/Commands](https://github.com/Vexus8453/SirerusShard---Discord-Bot/wiki)
 
 
