@@ -37,7 +37,7 @@
 	
 ## NOTICE:
 
-SirerusShard is currently in heavy development, If the bot goes offline at any moment - It is most likely because a update is about to be pushed out or some fixing is going on
+SirerusShard is currently in heavy development, If the bot goes offline at any moment - It is most likely because a update is about to be pushed out or some maintenance is going on
 
 
 ***THIS GITHUB IS A WORK IN PROGRESS.***
