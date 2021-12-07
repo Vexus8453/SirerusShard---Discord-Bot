@@ -23,10 +23,8 @@
 	
 ## Changelog
 
-* Optimization
-* Anti-Spam
-* Improved Auto Moderation
-* Channel Creation/Deletion Logs
+* Major bug Fix
+* Being hosted again
 
 
 
@@ -39,7 +37,7 @@
 	
 ## NOTICE:
 
-SirerusShard is currently in heavy development, The bot is not being hosted due to this - Once development is finished this will change
+SirerusShard is currently in heavy development, If the bot goes offline at any moment - It is most likely because a update is about to be pushed out or some fixing is going on
 
 
 ***THIS GITHUB IS A WORK IN PROGRESS.***
